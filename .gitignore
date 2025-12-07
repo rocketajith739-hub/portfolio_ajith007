@@ -52,7 +52,7 @@ public/build/
 public/uploads/
 
 # 3D models, large assets
-src/assets/3d/
+
 src/assets/models/
 src/assets/videos/
 public/models/
@@ -91,7 +91,7 @@ Thumbs.db
 
 dist/
 build/
-src/assets/3d/
+
 public/models/
 public/uploads/
 *.glb
