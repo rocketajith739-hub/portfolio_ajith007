@@ -53,10 +53,6 @@ public/uploads/
 
 # 3D models, large assets
 
-
-src/assets/videos/
-public/models/
-
 # Large file types (avoid GitHub 100MB limit)
 *.glb
 *.gltf
