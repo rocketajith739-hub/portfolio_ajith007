@@ -20,7 +20,7 @@ public/build/
 public/uploads/
 
 # Ignore ONLY 3D assets (keep JS model files)
-src/assets/3d/
+
 
 # Large binary files (never push)
 *.glb
