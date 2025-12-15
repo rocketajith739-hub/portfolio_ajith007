@@ -21,7 +21,21 @@ public/uploads/
 
 # Ignore ONLY 3D assets (keep JS model files)
 
+# Ignore ONLY 3D assets
+src/assets/3d/
 
+# Large binary files
+*.glb
+*.gltf
+*.fbx
+*.obj
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.zip
+*.rar
 
 # Local environment files
 *.local
